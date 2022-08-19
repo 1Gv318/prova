@@ -1,8 +1,8 @@
 # The title of your blog.
-title: Truegit
+title: Liber
 
 # Description
-description: A reference repository for Truegit blog
+description: diario di uno sporco cattocapitalista
 
 # Theme color. Must be a HEX value in quotes
 theme: "#CF508A"
@@ -29,7 +29,7 @@ bannerImage:
   path: /banner.webp
 logoImage: ./logo.png
 navLinks:
-  - title: Archives
+  - title: Archivi
     url: /archives
   - title: RSS
     url: /feed
@@ -45,18 +45,12 @@ socials:
   github: https://github.com/quant-daddy
 authors:
   quantdaddy:
-    name: Suraj Keshri
-    title: Founder, Gully
-    description: Enjoys coding and coding only
-    url: https://gully.to
+    name: 1Gv318
+    title: nessuno
+    description: uomo, contadino, studente, praticante
+    url: https://1Gv318.truegit.io
     profileImage:
       path: "./assets/quantdaddy.jpeg"
     socials:
-      linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-      instagram: https://www.instagram.com/quantdaddy/
-      github: https://github.com/quant-daddy
-      twitter: https://twitter.com/quantdaddy
-      url: https://google.com
-      youtube: https://www.youtube.com/channel/UC5YwzJ-Vv_akOUIe5FZ-zDA
-      email: hello@truegit.io
-      reddit: https://www.reddit.com/r/kubernetes/
+      twitter: https://twitter.com/gandalfcanuto
+      email: frigo.lapeara@gmail.com
